@@ -16,8 +16,8 @@ fi
         -e bgc \
         -t larm \
         -cpu arm \
-        -m Plus \
-        -hres 512 -vres 342 -depth 0 \
+        -m II \
+        -hres 640 -vres 480 -depth 3 \
         -magnify 1 \
         -mf 2 \
         -sound 1 \
