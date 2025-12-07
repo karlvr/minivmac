@@ -1,8 +1,7 @@
 #!/bin/sh
 #
 # Example of how to build the SDL2 version of Mini vMac on Linux
-# This targets the Raspberry Pi 4 with 64bit OS.
-# The resolution is set to 800x600, and Mini vMac is set to launch in fullscreen mode for my purposes.
+# This targets my Raspberry Pi Zero W 2 running on a 640x480 display.
 
 # we need to build the setup tool first
 if [ ! -x ./setup_t ]; then
