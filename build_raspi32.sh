@@ -18,8 +18,6 @@ fi
         -cpu arm \
         -m II \
         -hres 640 -vres 480 -depth 3 \
-        -magnify 1 \
-        -mf 2 \
         -sound 1 \
         -sony-sum 1 -sony-tag 1 \
         -speed 4 -ta 2 -mem 4M \
